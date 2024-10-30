@@ -98,4 +98,66 @@
     font-weight: bold;
     color: #333;
 }
-
+/* Best Deals Section */
+.best-deals h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #4CAF50;
+  }
+  
+  .best-deals .price {
+    font-size: 1.5rem;
+    color: #FF5733;
+  }
+  
+  .best-deals .card {
+    border: none;
+  }
+  
+  .best-deals .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .best-deals .card-text {
+    color: #6c757d;
+  }
+  /* Best Deals Section Styling */
+.best-deals .deal-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #2D6A4F;
+  }
+  
+  .best-deals .deal-price {
+    font-size: 1.75rem;
+    color: #FF4500;
+    margin-bottom: 1rem;
+  }
+  
+  .best-deals .view-items-btn {
+    font-size: 1rem;
+    padding: 0.5rem 1.5rem;
+  }
+  
+  .best-deals .card {
+    border: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .best-deals .card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  
+  .best-deals .card-text {
+    color: #0ca22f;
+    font-size: 0.9rem;
+  }
+  
+  .best-deals .deal-item-price {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #28a745;
+  }
+  
